@@ -1,0 +1,8 @@
+{
+  "items": [
+    { "name": "Coffee beans 250g",   "price": 12.50, "quantity": 2 },
+    { "name": "Ceramic mug",         "price":  8.99, "quantity": 1 },
+    { "name": "Chocolate bar",       "price":  3.30, "quantity": 3 }
+  ],
+  "discount": 10
+}

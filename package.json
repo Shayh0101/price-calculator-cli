@@ -1,0 +1,26 @@
+{
+  "name": "price-calculator",
+  "version": "1.0.0",
+  "description": "Small Node.js library and CLI for calculating order totals with discounts",
+  "main": "src/calcPrice.js",
+  "type": "module",
+  "bin": {
+    "price-calc": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "node --test",
+    "start": "node bin/cli.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "price",
+    "calculator",
+    "discount",
+    "order",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT"
+}
